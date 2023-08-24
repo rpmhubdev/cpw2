@@ -15,6 +15,8 @@
 				"streetsidesoftware.code-spell-checker-portuguese-brazilian"
 			],
 			"settings": {
+
+				//a
 				"workbench.colorTheme": "GitHub Light Default",
 				"workbench.iconTheme": "eq-material-theme-icons-light",
 				"editor.rulers": [80,120],
